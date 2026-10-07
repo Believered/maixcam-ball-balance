@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+config.py
+target_x.txt
+models/
+*.mud
+*.cvimodel
+*.onnx
+*.log
+.DS_Store
+Thumbs.db

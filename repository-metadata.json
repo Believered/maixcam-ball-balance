@@ -1,0 +1,13 @@
+{
+  "name": "maixcam-ball-balance",
+  "description": "MaixCAM 钢球视觉定位与单轴步进位置控制源码档案，含串口边界测试；模型和实机验证待补。",
+  "private": true,
+  "topics": [
+    "maixpy",
+    "embedded",
+    "computer-vision",
+    "pid-control",
+    "uart"
+  ],
+  "default_branch": "main"
+}
